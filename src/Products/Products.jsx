@@ -19,7 +19,7 @@ function Products(props) {
           </div>
 <div>
 
-          <button className='bg-green-800 text-white px-[1rem] py-[0.5rem] sm:h-[3rem] sm:w-[8rem]'>Shop Now</button>
+          <button className='bg-green-800 text-white px-[1rem] py-[0.5rem] sm:h-[3rem] sm:w-[8rem] hover:bg-green-600 hover:text-orange-200'>Shop Now</button>
           </div>
 
         </div>

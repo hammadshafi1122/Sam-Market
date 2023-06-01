@@ -27,7 +27,7 @@ function Filterproducts(props) {
         <div className=' px-[1rem] py-[0.5rem] '>0</div>
         <div className='border-2 border-gray-400 px-[1rem] py-[0.5rem] '>+</div>
       </div>  
-      <button className='bg-green-800 text-white p-[0.5rem] mx-[1.8rem] lg:h-[3rem] lg:mx-[1rem] lg:w-[8rem]'>Add to Cart</button>
+      <button className='bg-green-800 text-white p-[0.5rem] mx-[1.8rem] lg:h-[3rem] lg:mx-[1rem] lg:w-[8rem] hover:bg-green-600 hover:text-orange-200'>Shop Now</button>
     </div>
   )
 }

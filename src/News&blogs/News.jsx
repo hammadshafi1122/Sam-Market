@@ -20,7 +20,7 @@ function News(props) {
             io quisquam necessitatibus consectetur <br />
              nobis quos ipsam doloribusa
              b optio voluptate ullam?</div>
-          <div className='font-bold text-green-800 underline'>
+          <div className='font-bold text-green-800 underline hover:bg-green-600 hover:text-orange-400 hover:inline-block hover:px-[0.5rem] hover:py-[0.1rem]'>
             Read More
           </div>
           </div>

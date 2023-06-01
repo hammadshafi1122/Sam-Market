@@ -28,6 +28,8 @@ import News2 from './images/news2.png'
 function App() {
   return (
     <>
+    <div className='max-w-[100rem]'>
+
         <Top/>
         <Navbar/>
       
@@ -94,6 +96,8 @@ function App() {
 
 
               <Footer/>
+              </div>
+
 
     </>
   );
